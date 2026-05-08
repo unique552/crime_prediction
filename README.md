@@ -133,7 +133,7 @@ Decision-support tool only. Never replaces human judgment.
 
 ## Contributors
 
-Nishit Patel, Pranav Adhikari, Pragun, Unique Bhakta Shrestha, Sameera Simha J
+Nishit Patel, Pranav Adhikari, Pragun Lal Shrestha, Unique Bhakta Shrestha, Sameera Simha J
 
 ---
 
